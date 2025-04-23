@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/341b5d63-5429-4276-a9d4-3edc31775b87)<h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
+<h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
 <h3>Name:     SANTHIYA R          </h3>
 <h3>Register Number: 212223230192       </h3>
 <H3>Aim:</H3>
